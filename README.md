@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @danny041
+- 👋 Hi, I’m Daniel
 - 👀 I’m interested in ... frontend and backend devolopment
 - 🌱 I’m currently learning ... php langauge
 - 💞️ I’m looking to collaborate on ... coding challenges and reviews
